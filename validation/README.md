@@ -4,18 +4,31 @@
 <ul>
   <li>10% (~4) of randomly selected biomarker pages</li>
   <ul><li>egf.md</li><li>sflt-1.md</li><li>d-dimer.md</li><li>fibrinogen.md</li></ul>
-  <li>15% (~7) of non-biomarker-related wiki pages</li>
-  <ul><li>pas-coagulation-markers.md</li><li>mcnally-fisher-et-al-2020-dock4-cytotrophoblast-pas.md
-</li><li>pas-hematological-indices.md</li><li>combined-first-trimester-papp-a-and-beta-hcg-for-pas-and-pp.md
-</li><li>trophoblast-invasion.md</li><li>tersigni-et-al-2024-syncytiotrophoblast-extracellular-vesicles-previa-pas.md
-</li><li>al-nuaimi-2025-hematological-indices-previa-pas.md</li></ul>
-  <li>50% (539 lines) of YAML file</li>
-  <ul><li> sources (lines 107-363)</li><li>biomarkers (lines 567-850)</li></ul>
+  <li>5% (~2) of non-biomarker-related wiki pages</li>
+  <ul><li>pas-coagulation-markers.md</li><li>tersigni-et-al-2024-syncytiotrophoblast-extracellular-vesicles-previa-pas.md
+</li></ul>
+  <li>25% (~270 lines) of YAML file</li>
+  <ul><li> sources (lines 107-243)</li><li>biomarkers (lines 646-771)</li><li>Total: 271 lines</li></ul>
 </ul>
+
+### Results
+
+| Page | PASS/FAIL | Cumulative Score |
+|------|-----------|------------------|
+|egf.md|          |                  | 
+|sflt-1.md|        |                  | 
+|d-dimer.md || 
+|fibrinogen.md| | 
+|pas-coagulation-markers.md ||
+|tersigni-et-al-2024-syncytiotrophoblast-extracellular-vesicles-previa-pas.md | |
+|biomarker-knowledge-base.yaml lines 107-243 | ||
+|biomarker-knowledge-base.yaml lines 646-771 || |
 
 As our research is preliminary, we believe this sample is adequately representative of the information contained within the entire knowledge base and is sufficient for this study. 
 <br><br>
-Validation reports regarding the results of these evaluations can be found within this folder, named: <br><br><br>
+Validation reports regarding the results of these evaluations can be found within this folder, named correspondingly:
+<ul><li>egf-validation-report.docx</li> <li>sflt-1-validation-report.docx</li> <li>d-dimer-validation-report.docx</li> <li>fibrinogen-validation-report.docx</li> <li>pas-coagulation-markers-validation-report.docx</li> <li>tersigni-et-al-2024-validation-report.docx</li> <li>yaml-part-1-validation-report.docx</li> <li>yaml-part-2-validation-report.docx</li></ul>
+<br>
 
 ## Methodology
 Most of our validation methodology and the rubric used to grade responses can be found within "Validation.pdf." 
