@@ -4,7 +4,7 @@
 <b>Authors</b>: Jillian Puskar, Dr. Vanathi Gopalakrishnan 
 
 ### Repository Overview
-<ol><li>About the project</li><ol><li>concept-paper-JillianPuskar.docx</li><li>methods.docx</li></ol><li>Data</li><ol><li>data/</li><ol><li>literature.xlsx</li><li>PDFs copies of source literature</li></ol></ol><li>Results</li><ol><li>results/</li><ol><li>knowledge-base/</li><ol><li>All AI-generated documents part of the knowledge base, relevant as of 7/24/2026</li></ol><li>results-summary.docx</li></ol></ol><li>Validation</li><ol><li>validation/</li><ol><li>baselines/</li><ol><li>Original baselines</li><li>Consolidated baselines (versions used for validation)</li></ol><li>Validation reports</li><li>validation.docx (validation methodology and rubric)</li></ol></ol>
+<ol><li>About the project</li><ol><li>concept-paper-JillianPuskar.docx</li><li>methods.docx (coming soon)</li></ol><li>Data</li><ol><li>data/</li><ol><li>literature.xlsx</li><li>PDFs copies of source literature (missing one; will be added soon)</li></ol></ol><li>Results</li><ol><li>results/</li><ol><li>knowledge-base/</li><ol><li>All AI-generated documents part of the knowledge base, relevant as of 7/24/2026</li></ol><li>results-summary.docx (coming soon) </li></ol></ol><li>Validation</li><ol><li>validation/</li><ol><li>baselines/</li><ol><li>Original baselines</li><li>Consolidated baselines (versions used for validation)</li></ol><li>Validation reports (more coming soon) </li><li>validation.docx (validation methodology and rubric)</li></ol></ol>
 <br>
 
 ## Concept 
