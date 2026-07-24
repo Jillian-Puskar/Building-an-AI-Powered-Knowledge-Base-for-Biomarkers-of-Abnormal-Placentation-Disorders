@@ -1,6 +1,6 @@
 # Validation of AI-Generated Responses 
 ## ***Update
-<b>As of 7/24/2026, a sample of the information generated within the knowledge base has been evaluated.</b>
+<b>As of 7/24/2026, a sample of the information generated within the knowledge base has been chosen for evaluation.</b>
 <ul>
   <li>5% (~2) of randomly selected biomarker pages</li>
   <ul><li>egf.md</li><li>d-dimer.md</li></ul>
@@ -16,16 +16,16 @@
 | Page | PASS/FAIL | Cumulative Score |
 |------|-----------|------------------|
 |egf.md| A: FAIL; B: PASS     |A: 24; B: 42 | 
-|d-dimer.md || 
+|d-dimer.md |A: PASS; B: FAIL| A: 48; B: 35; |
 |pas-coagulation-markers.md ||
 |tersigni-et-al-2024-syncytiotrophoblast-extracellular-vesicles-previa-pas.md | |
 |biomarker-knowledge-base.yaml lines 107-243 | ||
 |biomarker-knowledge-base.yaml lines 646-771 || |
 
-As our research is preliminary, we believe this sample is adequately representative of the information contained within the entire knowledge base and is sufficient for this study. 
+As our research is preliminary, and due to time constraints, we believe this sample is adequately representative of the information contained within the entire knowledge base and is sufficient for the scope of this study. 
 <br><br>
 Validation reports regarding the results of these evaluations can be found within this folder, named correspondingly:
-<ul><li>egf-validation-report.docx</li>  <li>d-dimer-validation-report.docx</li>  <li>pas-coagulation-markers-validation-report.docx</li> <li>tersigni-et-al-2024-validation-report.docx</li> <li>yaml-part-1-validation-report.docx</li> <li>yaml-part-2-validation-report.docx</li></ul>
+<ul><li>egf-2026-07-23.md</li>  <li>d-dimer-2026-07-23.docx</li> <li>yaml-part-1-validation-report.docx</li> <li>yaml-part-2-validation-report.docx</li></ul>
 <br>
 
 ## Methodology
