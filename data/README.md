@@ -1,7 +1,7 @@
 # About the Data
 ### Table of Contents
 <ol>
-<li>(PDF versions of) "Raw" data for knowledge base </li><ul>
+<li>(PDF versions of) "Raw" data for knowledge base, total of 30 </li><ul>
   <li>s41467-021-24627-2.pdf</li>
   <li>s12884-025-08463-6.pdf</li>
   <li>s12884-023-05784-2.pdf</li>
@@ -13,7 +13,7 @@
   <li>JCMM-24-13837.pdf</li>
   <li>ijms-26-06187.pdf</li>
   <li>ijms-25-09722.pdf</li>
-  <li>ijms-23-05682.pdf</li>
+  <li> <a href="https://www.mdpi.com/1422-0067/23/10/5682">  ijms-23-05682.pdf </a> (not included in this folder due to large file size) </li>
   <li>fendo-16-1627377.pdf</li>
   <li>biomolecules-15-00228-v2.pdf</li>
   <li>AOGS-103-2335.pdf</li>
