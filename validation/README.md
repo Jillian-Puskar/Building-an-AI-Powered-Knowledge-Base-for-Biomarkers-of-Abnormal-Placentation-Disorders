@@ -6,7 +6,7 @@
   <ul><li>egf.md</li><li>d-dimer.md</li></ul>
   <li>10% (~5) of non-biomarker-related wiki pages (coming soon)</li>
   <ul><li>pas-coagulation-markers.md</li><li>tersigni-et-al-2024-syncytiotrophoblast-extracellular-vesicles-previa-pas.md
-</li><li>index.md</li><li>pas-maternal-and-neonatal-outcomes.md</li><li>trophoblast-invasion.md</li></ul>
+</li><li>abnormal-placentation.md</li><li>pas-maternal-and-neonatal-outcomes.md</li><li>trophoblast-invasion.md</li></ul>
   <li>25% (~270 lines) of YAML file (coming soon)</li>
   <ul><li> sources (lines 107-243)</li><li>biomarkers (lines 646-771)</li><li>Total: 271 lines</li></ul>
 </ul>
@@ -17,13 +17,13 @@
 |------|-----------|------------------|
 |egf.md| A: FAIL; B: PASS     |A: 24; B: 42 | 
 |d-dimer.md |A: PASS; B: FAIL| A: 48; B: 35; |
-|pas-coagulation-markers.md ||
-|tersigni-et-al-2024-syncytiotrophoblast-extracellular-vesicles-previa-pas.md | |
-|pas-maternal-and-neonatal-outcomes.md | | | 
-|index.md | | |
-|trophoblast-invasion.md | | |
-|biomarker-knowledge-base.yaml lines 107-243 | ||
-|biomarker-knowledge-base.yaml lines 646-771 || |
+|pas-coagulation-markers.md |A: ; B: ; C: ; D: |A: ; B: ; C: ; D: |
+|tersigni-et-al-2024-syncytiotrophoblast-extracellular-vesicles-previa-pas.md |A: ; B: ; C: | A: ; B: ; C: |
+|pas-maternal-and-neonatal-outcomes.md |A: ; B: ; C: |A: ; B: ; C: | 
+|abnormal-placentation.md |A: ; B: ; C: |A: ; B: ; C: |
+|trophoblast-invasion.md |A: ; B: |A: ; B: |
+|biomarker-knowledge-base.yaml lines 107-243 |A: |A:|
+|biomarker-knowledge-base.yaml lines 646-771 |A: |A: |
 
 As our research is preliminary, and due to time constraints, we believe this sample is adequately representative of the information contained within the entire knowledge base and is sufficient for the scope of this study. 
 <br><br>
